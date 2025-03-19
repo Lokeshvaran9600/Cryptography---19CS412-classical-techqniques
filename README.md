@@ -77,7 +77,6 @@ int main() {
 }
 ```
 ## OUTPUT:
-OUTPUT:
 ![Screenshot 2025-03-19 093243](https://github.com/user-attachments/assets/1451bb28-e453-4d3f-83d4-4160effd5748)
 
 Simulating Caesar Cipher
