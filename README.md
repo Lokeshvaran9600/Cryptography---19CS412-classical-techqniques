@@ -74,7 +74,7 @@ void main()
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/c697bc1b-adc2-448a-a30b-f826e9765f11)
+![Screenshot 2025-03-26 084807](https://github.com/user-attachments/assets/45469fba-8749-46ff-b7df-8fa1f128fc30)
 
 
 ## RESULT:
