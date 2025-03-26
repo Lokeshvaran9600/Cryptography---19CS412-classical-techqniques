@@ -87,9 +87,9 @@ Playfair Cipher using with different key values
 
 **DATE:** 19.03.2025
 
-**NAME:** BASKAR J
+**NAME:** LOKESHVARAN S
 
-**REG NO:** 212223040025
+**REG NO:** 212223040105
 
 # AIM:
 
@@ -269,7 +269,7 @@ int main() {
     printf("Simulating Playfair Cipher\n");
     strcpy(key, "Monopoly");
     printf("Key text: %s\n", key);
-    strcpy(str, "BASKAR");
+    strcpy(str, "LOKESHVARAN");
     printf("Plain text: %s\n", str);
     encryptByPlayfairCipher(str, key);
     printf("Cipher text: %s\n", str);
@@ -280,7 +280,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/4f0c368c-22bc-40c2-a438-bc083fbfd0a5)
+![Screenshot 2025-03-26 085302](https://github.com/user-attachments/assets/91cbaf45-7f82-4437-9e3b-15fb5671cc82)
+
 
 ## RESULT:
 The program is executed successfully
