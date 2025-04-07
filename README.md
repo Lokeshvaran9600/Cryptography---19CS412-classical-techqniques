@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/889072a9-dbba-4e7e-ac9b-3f1aab238c78)# Cryptography---19CS412-classical-techqniques
 # Caeser Cipher
 Caeser Cipher using with different key values
 
